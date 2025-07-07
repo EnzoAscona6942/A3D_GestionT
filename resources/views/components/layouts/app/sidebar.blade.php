@@ -29,11 +29,11 @@
                 <flux:navlist.item icon="user-group" :href="route('sobre.nosotros')" wire:navigate>
                 {{ __('Quienes somos') }}
                 </flux:navlist.item>
-                <flux:navlist.item icon="folder-git-2" href="https://github.com/EnzoAscona6942/GT-V02" target="_blank">
+                <flux:navlist.item icon="folder-git-2" href="https://github.com/EnzoAscona6942/A3D_GestionT" target="_blank">
                 {{ __('Repositorio') }}
                 </flux:navlist.item>
 
-                <flux:navlist.item icon="book-open-text" href="https://laravel.com/docs/starter-kits#livewire" target="_blank">
+                <flux:navlist.item icon="book-open-text" href="https://drive.google.com/drive/folders/1Sz8-ceojzmDbTdkPpGSTl-jhKy_oLC9Z?usp=sharing" target="_blank">
                 {{ __('Documentacion') }}
                 </flux:navlist.item>
             </flux:navlist>
